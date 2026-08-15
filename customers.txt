@@ -1,0 +1,5 @@
+3840348474151|Qasim1234|Qasim Abbas|Male|03030712725|sargodha|0
+3456221457896|Qasim1234|Qasim Abbas|male|03030712725|sgd|0
+3840348474152|Basim1234|Basim|other|03470856755|sgd|0
+3840348474153|Wasim1234|Wasim Abbas|Male|03030712726|islamabad|0
+3840304683143|Abdullah6|Abdullah Bhai|Male|03096779922|Joharabad|0
